@@ -44,7 +44,7 @@
 		position: relative;
 		min-height: 100vh;
 	}
-	
+
 	.background-overlay {
 		position: fixed;
 		top: 0;
@@ -85,7 +85,7 @@
 		margin: 20px;
 		border-radius: 15px;
 	}
-	
+
 	.right-content-area::-webkit-scrollbar { width: 8px; }
 	.right-content-area::-webkit-scrollbar-track { background: rgba(0,0,0,0.1); border-radius: 10px; }
 	.right-content-area::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.3); border-radius: 10px; }
