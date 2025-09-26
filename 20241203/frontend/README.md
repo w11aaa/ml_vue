@@ -1,19 +1,35 @@
+-----
+
 # 20241203
 
-## Project setup
+## 项目设置
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+该命令会安装项目所需的所有依赖。
+
+-----
+
+### 编译并热重载以进行开发
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+运行此命令会启动一个开发服务器，当你修改代码时，应用会自动重新加载。
+
+-----
+
+### 编译并压缩以便生产
+
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+此命令会将你的项目打包成最终的静态文件，用于部署到生产环境。
+
+-----
+
+
